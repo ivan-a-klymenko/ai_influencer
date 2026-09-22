@@ -6,6 +6,7 @@ base_location: Barcelona, Spain
 primary_language: English
 character_type: Virtual AI influencer
 status: Concept
+canonical_appearance: characters/06-sofia-marin/
 ---
 
 # Sofia Marín
@@ -145,12 +146,16 @@ Sofia must be attractive but should **not** look like a flawless CGI supermodel.
 
 The beauty mark is an important stable identifier.
 
+Together with the white streak near the right temple and the red string bracelet on the left wrist, it forms Sofia's core visual identity system.
+
 ### Hair
 
 - long dark-chestnut hair;
-- slightly wavy;
-- sometimes loose, sometimes tied back;
-- realistic variation across casual scenes.
+- softly wavy;
+- natural volume;
+- sometimes loose, sometimes tied back in lifestyle scenes;
+- **thin distinctive white streak near the right temple**;
+- realistic variation across casual scenes while preserving the white streak as a stable identity marker.
 
 ### Body
 
@@ -415,11 +420,29 @@ Among the six concepts, Sofia is especially suitable for classic Instagram lifes
 
 ## 24. Character invariants
 
-1. age clearly reads 23;
-2. small beauty mark under left eye;
-3. red string bracelet on left wrist;
-4. realistic Barcelona apartment and city environment;
-5. fast, conversational delivery;
-6. audience participation is central;
-7. Sofia is a protagonist, not a therapist;
-8. openly virtual identity.
+1. age clearly reads **23**;
+2. small beauty mark below the **left eye**;
+3. thin distinctive **white streak near the right temple**;
+4. long dark-chestnut softly wavy hair;
+5. thin red string bracelet on the **left wrist**;
+6. warm Mediterranean skin and large expressive dark-brown eyes;
+7. slim, natural young-adult proportions;
+8. realistic Barcelona apartment and city environment;
+9. fast, conversational delivery;
+10. audience participation is central;
+11. Sofia is a protagonist, not a therapist;
+12. openly virtual identity.
+
+## 25. Approved visual reference
+
+The **first Sofia Marín character-sheet generation from 2026-09-22** is the current working visual baseline.
+
+Generation metadata and the exact prompt used are stored in:
+
+- `characters/06-sofia-marin/generation-log.md`
+- `characters/06-sofia-marin/appearance-master-prompt.md`
+- `characters/06-sofia-marin/appearance-invariants.md`
+
+The owner will place the approved reference image manually under:
+
+- `characters/06-sofia-marin/assets/sofia-marin-working-reference.png`
