@@ -5,8 +5,8 @@ These are the **hard visual constraints** for Mateo Serra.
 ## Identity
 
 - Male.
-- Canonical story age: **101**.
-- Approved apparent visual age: **approximately 90–95**.
+- Canonical story age: **98**.
+- Approved apparent visual age: **approximately 70**.
 - Mediterranean Spanish identity.
 - Same recognizable face across all generated content.
 
@@ -16,8 +16,8 @@ These are the **hard visual constraints** for Mateo Serra.
 - Long white beard reaching the upper chest.
 - White moustache integrated naturally into the beard.
 - Dark-brown eyes.
-- Deep but natural wrinkles.
-- Visible age spots.
+- Moderate natural wrinkles appropriate to a healthy-looking man around 70.
+- Some natural age spots, but noticeably fewer than the earlier 90–95 visual version.
 - Thin, realistic elderly skin.
 - Slight facial asymmetry.
 - Slightly lowered eyelids.
@@ -27,7 +27,7 @@ These are the **hard visual constraints** for Mateo Serra.
 ## Body
 
 - Thin build.
-- Slightly stooped posture.
+- Mostly upright posture with only mild age-related stoop.
 - Realistic elderly proportions.
 - Hands visibly aged, with natural veins and age texture.
 - Appearance of someone who worked physically for most of his life.
@@ -63,6 +63,6 @@ Mateo should feel:
 
 ## Canon rule
 
-The **second character-sheet generation selected on 2026-09-22** is the visual baseline.
+The **third character-sheet generation selected on 2026-09-22** is the current working visual baseline.
 
 If a future generation conflicts with that approved reference, the approved reference wins unless the owner explicitly revises the canon.
