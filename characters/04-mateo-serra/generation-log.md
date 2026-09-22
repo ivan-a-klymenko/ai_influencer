@@ -73,3 +73,34 @@ Edit Image A. Preserve the exact two-panel character sheet layout on a clean whi
 - The approved face should visually read about **90–95**.
 - The younger visual age is intentional and should not be treated as a continuity error.
 - The second generation is now the appearance baseline for future reference-based generation.
+
+
+---
+
+## Variant 3 — current working generation
+
+**Status:** WORKING / CANONICAL  
+**Owner decision:** selected as the current working Mateo Serra appearance.
+
+**Generation ID:** `f9fcc75e-a52c-4a78-bed0-485ea7f2e834`  
+**Output aspect ratio:** 4:3  
+**Output dimensions:** 1448 × 1086
+
+### Concept change
+
+- story age changed from 101 to **98**;
+- visual age target changed from ~90–95 to **approximately 70**;
+- identity, beard, outfit, layout, and expression were preserved;
+- face and posture were made noticeably younger and more vital.
+
+### Exact prompt used
+
+```text
+Edit Image A. Preserve the exact two-panel character sheet layout on a clean white studio background: full-body standing view on the left and close chest-up portrait on the right. Preserve the same person, same outfit, same mustard linen short-sleeve shirt, brown linen trousers, brown leather sandals, long wooden bead necklace, bald head, long white beard, calm serious gaze, and photorealistic style. Update the character concept so that Mateo Serra is now 98 years old in the story, but visually he should look about 70 years old. Make him appear noticeably younger than before: significantly fewer wrinkles and age spots, firmer facial structure, less drooping around the eyes and cheeks, healthier skin tone, straighter posture, and more vitality, while still keeping him clearly older and believable, not young or glamorous. Keep real unretouched skin and maintain the same identity consistently in both panels. No smile, no extra props, no background changes, no text labels or captions.
+```
+
+### Canonical interpretation
+
+- Mateo is **98 years old** in the story.
+- He should visually read **around 70**.
+- Variant 3 supersedes Variant 2 as the current working appearance.
