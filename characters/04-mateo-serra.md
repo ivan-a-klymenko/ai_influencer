@@ -122,7 +122,7 @@ Alternatives:
 
 ## 9. Appearance
 
-Mateo must visually read as **95–105**, not as an attractive 70-year-old with white hair.
+Mateo's **canonical story age remains 101**, but the approved visual reference intentionally reads somewhat younger: approximately **90–95**. He should look exceptionally healthy for 101 without looking implausibly youthful.
 
 ### Face
 
@@ -160,17 +160,29 @@ The main visual identifier:
 
 Mateo never looks fashionable.
 
-Typical clothes:
+### Approved reference outfit
+
+The approved character sheet uses:
+
+- mustard linen short-sleeve shirt with a few buttons at the collar;
+- brown linen trousers;
+- simple brown leather sandals;
+- long wooden bead necklace.
+
+This outfit is the **primary appearance-reference wardrobe** and should be used for identity sheets and early consistency tests.
+
+### Secondary wardrobe variants
+
+Later scenes may also use:
 
 - white linen shirt;
-- pale-blue shirt;
+- pale-blue linen shirt;
 - beige trousers;
 - old brown belt;
-- simple leather sandals;
 - wool vest in winter;
 - straw hat outdoors.
 
-No visible brands.
+No visible brands. Clothing should remain humble, natural, Mediterranean, and non-fashion-oriented.
 
 ## 11. Signature objects
 
@@ -298,11 +310,29 @@ Do not build the character around miracle supplements, detox products, disease t
 
 ## 21. Character invariants
 
-1. 101-year-old visual age;
-2. bald head;
-3. long white beard;
-4. wooden walking stick;
-5. Mediterranean Spain environment;
-6. slow, warm, slightly ironic delivery;
-7. simple habits rather than miracle cures;
-8. openly virtual identity.
+1. canonical story age: **101**;
+2. approved visual age: **approximately 90–95**;
+3. completely bald head;
+4. long white beard reaching the upper chest;
+5. deep natural wrinkles, age spots, real unretouched elderly skin;
+6. dark-brown eyes and a calm serious gaze;
+7. thin, slightly stooped body of a lifelong manual worker;
+8. primary reference outfit: mustard linen short-sleeve shirt, brown linen trousers, brown leather sandals, wooden bead necklace;
+9. Mediterranean Spain environment;
+10. slow, warm, slightly ironic delivery;
+11. simple habits rather than miracle cures;
+12. openly virtual identity.
+
+## 22. Approved visual reference
+
+The **second character-sheet generation from 2026-09-22** is the approved baseline appearance for Mateo Serra.
+
+Generation metadata and the exact prompts used are stored in:
+
+- `characters/04-mateo-serra/generation-log.md`
+- `characters/04-mateo-serra/appearance-master-prompt.md`
+- `characters/04-mateo-serra/appearance-invariants.md`
+
+The approved reference image is stored under:
+
+- `characters/04-mateo-serra/assets/mateo-serra-approved-reference.jpg`
