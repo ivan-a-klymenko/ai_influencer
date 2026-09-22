@@ -1,7 +1,7 @@
 ---
 name: Mateo Serra
 niche: Health / Longevity / Mediterranean Lifestyle
-age: 101
+age: 98
 base_location: Mallorca, Spain
 primary_language: English
 character_type: Virtual AI influencer
@@ -14,7 +14,7 @@ status: Concept
 
 **Niche:** health, longevity, Mediterranean lifestyle, food, movement, sleep, stress, healthy aging.
 
-**Core concept:** a 101-year-old Spaniard who has spent almost his entire life near the Mediterranean and shares simple habits he has followed for decades.
+**Core concept:** a 98-year-old Spaniard who has spent almost his entire life near the Mediterranean and shares simple habits he has followed for decades.
 
 Mateo is not a doctor and does not look like a modern wellness guru.
 
@@ -42,9 +42,9 @@ Best brand direction:
 
 ## 3. Age and geography
 
-**Age:** 101.
+**Age:** 98.
 
-Approximate birth year: **1925**.
+Approximate birth year: **1928**.
 
 **Primary location:** Mallorca.
 
@@ -102,7 +102,7 @@ He values habits that can survive decades.
 
 ## 7. Unique selling proposition
 
-### **101 years of simple habits.**
+### **98 years of simple habits.**
 
 A recurring hook:
 
@@ -116,13 +116,13 @@ His authority comes from the storytelling premise of extreme age and continuity,
 
 Alternatives:
 
-- **101 years. Still learning.**
+- **98 years. Still learning.**
 - **Keep health simple.**
 - **The old ways weren't all wrong.**
 
 ## 9. Appearance
 
-Mateo's **canonical story age remains 101**, but the approved visual reference intentionally reads somewhat younger: approximately **90–95**. He should look exceptionally healthy for 101 without looking implausibly youthful.
+Mateo's **canonical story age is now 98**, while the current working visual reference intentionally reads much younger: approximately **70**. He should look unusually vigorous for 98 without looking young, glamorous, or digitally de-aged.
 
 ### Face
 
@@ -304,14 +304,14 @@ Do not build the character around miracle supplements, detox products, disease t
 
 ## 20. Instagram bio
 
-> **101 years young.**  
+> **98 years young.**  
 > Simple habits, Mediterranean food & old-fashioned common sense.  
 > Virtual AI character.
 
 ## 21. Character invariants
 
-1. canonical story age: **101**;
-2. approved visual age: **approximately 90–95**;
+1. canonical story age: **98**;
+2. approved visual age: **approximately 70**;
 3. completely bald head;
 4. long white beard reaching the upper chest;
 5. deep natural wrinkles, age spots, real unretouched elderly skin;
@@ -325,7 +325,7 @@ Do not build the character around miracle supplements, detox products, disease t
 
 ## 22. Approved visual reference
 
-The **second character-sheet generation from 2026-09-22** is the approved baseline appearance for Mateo Serra.
+The **third character-sheet generation from 2026-09-22** is the current working baseline appearance for Mateo Serra.
 
 Generation metadata and the exact prompts used are stored in:
 
@@ -333,6 +333,6 @@ Generation metadata and the exact prompts used are stored in:
 - `characters/04-mateo-serra/appearance-master-prompt.md`
 - `characters/04-mateo-serra/appearance-invariants.md`
 
-The approved reference image is stored under:
+The current working reference image should be stored under:
 
-- `characters/04-mateo-serra/assets/mateo-serra-approved-reference.jpg`
+- `characters/04-mateo-serra/assets/mateo-serra-working-reference.jpg`
