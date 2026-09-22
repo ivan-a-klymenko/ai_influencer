@@ -2,10 +2,12 @@
 name: Vivienne Rossi
 niche: Wealth / Business / Money Psychology / European Luxury
 age: 78
+visual_age: 60
 base_location: Milan / Monaco / Barcelona
 primary_language: English
 character_type: Virtual AI influencer
 status: Concept
+canonical_appearance: characters/05-vivienne-rossi/
 ---
 
 # Vivienne Rossi
@@ -123,17 +125,19 @@ Alternatives:
 
 ## 9. Appearance
 
-Vivienne must look spectacular **at 78**, not artificially 45.
+Vivienne is **78 years old in the story**, but the current approved visual treatment should read approximately **60 years old**. She must still look mature and authentic, but exceptionally preserved, refined, poised, and elegant — never artificially young.
 
 ### Face
 
-- clear visible age;
-- elegant skin texture;
+- visually around 60 while remaining canonically 78;
+- refined mature skin with real texture;
+- subtle, elegant age lines rather than heavy aging;
 - high cheekbones;
 - expressive lips;
-- recognizable age lines;
-- sharp, lively eyes;
-- extremely well cared for without looking digitally smoothed.
+- sharp, intelligent, lively eyes;
+- extremely well cared for without looking digitally smoothed;
+- calm, self-assured, slightly severe expression;
+- no default smile.
 
 ### Hair
 
@@ -321,11 +325,30 @@ Avoid guaranteed-return claims, fast-money schemes, fake investment results, or 
 
 ## 21. Character invariants
 
-1. age clearly reads around 78;
-2. silver-white bob;
-3. oversized dark sunglasses;
-4. large green-stone ring on right hand;
-5. European old-money visual environment;
-6. quiet, sarcastic delivery;
-7. money framed around independence and ownership;
-8. openly virtual identity.
+1. canonical story age: **78**;
+2. approved visual age: **approximately 60**;
+3. silver-white perfectly styled bob;
+4. refined mature skin with subtle elegant age lines;
+5. slim build and excellent upright posture;
+6. oversized dark sunglasses;
+7. large gold ring with a green stone on the right hand;
+8. cream / ivory tailored wardrobe as the primary reference look;
+9. unmistakable refinement, elegance, poise, and high-end European taste;
+10. European old-money visual environment;
+11. quiet, sarcastic delivery;
+12. money framed around independence and ownership;
+13. openly virtual identity.
+
+## 22. Approved visual reference
+
+The **first Vivienne Rossi character-sheet generation from 2026-09-22** is the current working visual baseline.
+
+Generation metadata and the exact prompt used are stored in:
+
+- `characters/05-vivienne-rossi/generation-log.md`
+- `characters/05-vivienne-rossi/appearance-master-prompt.md`
+- `characters/05-vivienne-rossi/appearance-invariants.md`
+
+The owner will place the approved reference image manually under:
+
+- `characters/05-vivienne-rossi/assets/vivienne-rossi-working-reference.png`
