@@ -1,47 +1,32 @@
 # Mateo Serra — Master Appearance Prompt
 
-Status: **APPROVED BASELINE**  
-Derived from the second character-sheet generation selected on 2026-09-22.
+Status: **WORKING / CANONICAL**  
+Selected on 2026-09-22 after visual review.
+
+## Current character concept
+
+- **Story age:** 98
+- **Target visual age:** approximately 70
+- **Reference direction:** preserve the same Mateo Serra identity established in the prior selected image, but render him noticeably younger and more vital.
+
+## Exact working prompt used for the current selected image
 
 ```text
-Create a photorealistic character sheet for Mateo Serra, a 101-year-old Mediterranean Spanish man who looks exceptionally healthy for his age and visually reads approximately 90–95.
-
-Layout: two panels on a clean white studio background.
-- Left panel: full-body standing view.
-- Right panel: close chest-up portrait.
-
-The same identical person must appear in both panels, with the same face, same beard, same apparent age, and same overall identity.
-
-Mateo Serra is an extremely old Mediterranean Spanish man, but he should not look frail or visually older than the approved reference. He is completely bald and has a very long white beard reaching down to the upper chest. His face has deep but not exaggerated wrinkles, natural age spots, thin realistic elderly skin, slight asymmetry, slightly lowered eyelids, and lively dark-brown eyes. His expression is calm, serious, and composed, with no smile.
-
-He has a thin, slightly stooped body, the build of a man who worked physically all his life, with realistic proportions and visible age in the hands.
-
-Approved reference wardrobe:
-- mustard linen short-sleeve shirt with a few buttons at the collar,
-- brown linen trousers,
-- simple brown leather sandals,
-- long wooden bead necklace over the shirt.
-
-Style and realism:
-- photorealistic
-- real unretouched skin
-- natural elderly skin texture
-- no glamour retouching
-- no fashion-editorial styling
-- no fantasy aesthetic
-- no smiling
-- no dramatic cinematic background
-- no extra props
-- no text labels or captions
-
-Overall impression: an authentic Mediterranean farmer/craftsman, chronologically 101 but visually around 90–95, humble, calm, healthy for his age, realistic, and visually memorable.
+Edit Image A. Preserve the exact two-panel character sheet layout on a clean white studio background: full-body standing view on the left and close chest-up portrait on the right. Preserve the same person, same outfit, same mustard linen short-sleeve shirt, brown linen trousers, brown leather sandals, long wooden bead necklace, bald head, long white beard, calm serious gaze, and photorealistic style. Update the character concept so that Mateo Serra is now 98 years old in the story, but visually he should look about 70 years old. Make him appear noticeably younger than before: significantly fewer wrinkles and age spots, firmer facial structure, less drooping around the eyes and cheeks, healthier skin tone, straighter posture, and more vitality, while still keeping him clearly older and believable, not young or glamorous. Keep real unretouched skin and maintain the same identity consistently in both panels. No smile, no extra props, no background changes, no text labels or captions.
 ```
 
-## Important
+## Working-rule
 
-The chronological age and apparent age are intentionally different:
+This prompt is the current **working prompt** for Mateo Serra's character sheet.
 
-- **story age:** 101
-- **visual target:** approximately 90–95
+Future generations should preserve:
 
-Future prompts should preserve this distinction.
+- story age 98;
+- visual age ~70;
+- same identity;
+- same bald head;
+- same long white beard;
+- same mustard/brown reference outfit unless a scene requires a wardrobe change;
+- photorealistic, unretouched skin;
+- calm serious expression;
+- no glamour treatment.
